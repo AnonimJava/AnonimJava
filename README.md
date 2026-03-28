@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Dmitri
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
 
 <!---
 AnonimJava/AnonimJava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
